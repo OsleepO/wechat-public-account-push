@@ -95,7 +95,7 @@ export const USER_CONFIG = {
       ]
     },
     {
-      name: "老婆1",
+      name: "1",
       id: "",
       useTemplateId: "",
       province: "",
@@ -107,7 +107,7 @@ export const USER_CONFIG = {
       customizedDateList: []
     },
     {
-      name: "老婆2",
+      name: "2",
       id: "",
       useTemplateId: "",
       province: "",
@@ -119,7 +119,7 @@ export const USER_CONFIG = {
       customizedDateList: []
     },
     {
-      name: "老婆3",
+      name: "3",
       id: "",
       useTemplateId: "",
       province: "",
